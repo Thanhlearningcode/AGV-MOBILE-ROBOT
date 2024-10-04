@@ -141,7 +141,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-8" value="MOBILE ANDROID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_VxSpdj6iOLXyhf-zE2c-8" value="MOBILE ANDROID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VxSpdj6iOLXyhf-zE2c-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;strokeWidth=5;" edge="1" parent="1">
