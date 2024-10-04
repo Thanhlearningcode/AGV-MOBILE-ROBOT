@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="4_r1fWyMkN0j0IldbDm9">
-    <mxGraphModel dx="1247" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,10 +204,10 @@
             <mxPoint x="1230" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-24" value="MÀN HÌNH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_VxSpdj6iOLXyhf-zE2c-24" value="SCREEN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-25" value="NÚT ẤN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_VxSpdj6iOLXyhf-zE2c-25" value="BUTTON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_VxSpdj6iOLXyhf-zE2c-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_VxSpdj6iOLXyhf-zE2c-25" target="_VxSpdj6iOLXyhf-zE2c-5">
