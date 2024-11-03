@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="4_r1fWyMkN0j0IldbDm9">
-    <mxGraphModel dx="2093" dy="923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1719" dy="853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,12 +104,6 @@
         <mxCell id="mXa3rmAWr7jcZz2DO5kZ-28" value="IMU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;strokeWidth=5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="600" as="sourcePoint" />
-            <mxPoint x="880" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_VxSpdj6iOLXyhf-zE2c-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mXa3rmAWr7jcZz2DO5kZ-22" target="_VxSpdj6iOLXyhf-zE2c-5" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="620" y="360" as="sourcePoint" />
@@ -137,12 +131,6 @@
         </mxCell>
         <mxCell id="_VxSpdj6iOLXyhf-zE2c-8" value="MOBILE ANDROID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;strokeWidth=5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="600" as="sourcePoint" />
-            <mxPoint x="600" y="40" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_VxSpdj6iOLXyhf-zE2c-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -183,12 +171,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;strokeWidth=5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="600" as="sourcePoint" />
-            <mxPoint x="1120" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_VxSpdj6iOLXyhf-zE2c-21" value="LAPTOP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="1170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -208,30 +190,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="400" as="sourcePoint" />
             <mxPoint x="750" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;strokeWidth=5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="600" as="sourcePoint" />
-            <mxPoint x="40" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;strokeWidth=5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1300" y="600" as="sourcePoint" />
-            <mxPoint x="30" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;strokeWidth=5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="40" as="sourcePoint" />
-            <mxPoint x="40" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_VxSpdj6iOLXyhf-zE2c-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;strokeWidth=5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1320" y="600" as="sourcePoint" />
-            <mxPoint x="1320" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_VxSpdj6iOLXyhf-zE2c-34" value="&lt;span style=&quot;color: rgb(8, 28, 54); font-family: SegoeuiPc, &amp;quot;Segoe UI&amp;quot;, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Lucida Grande&amp;quot;, Roboto, Ubuntu, Tahoma, &amp;quot;Microsoft Sans Serif&amp;quot;, Arial, sans-serif; font-size: 15px; letter-spacing: 0.2px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Ultrasonic Sensor&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
